@@ -1,2 +1,2 @@
-thedips.github.com
-==================
+thedips.github.io
+=================
